@@ -432,6 +432,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-data1
+data
 
 README.md
